@@ -15,4 +15,5 @@ We have compared and studied various algorithms to assemble the chatbot.
 The Seq2Seq LSTM allows us to expand and apply this model to a mixture of Question-Answering (QA) tasks. 
 In the beginning, we extracted all frequently asked questions (FAQs) from the UNT website, 
 then used the Seq2Seq LSTM model with GloVe word embedding and different optimizations to gain accuracy as high as 50 percent on the dataset.
-
+![alt text](https://github.com/Jerrymzl99/UNT-ChatBot/blob/main/graph/encoder.png)
+![alt text](https://github.com/Jerrymzl99/UNT-ChatBot/blob/main/graph/decoder.png)
